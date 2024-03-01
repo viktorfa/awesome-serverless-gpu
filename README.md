@@ -20,6 +20,7 @@ True serverless inference
 - Banana.dev (Shutting down March 31st 2024)
 - Beam.cloud
 - Mystic.ai
+- Modal.com
 
 ### Predefined models
 True serverless with a limited set of models
