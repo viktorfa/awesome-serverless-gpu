@@ -12,6 +12,7 @@ Common weaknessses of serverless GPU at the moment is very long cold starts, and
 ## Inference
 
 ### Bring your own model
+True serverless inference
 - Inferless.com
 - Replicate.com
 - Runpod.io
@@ -21,7 +22,17 @@ Common weaknessses of serverless GPU at the moment is very long cold starts, and
 - Mystic.ai
 
 ### Predefined models
+True serverless with a limited set of models
 - Cloudflare AI
 - OpenAI
 - Mistral
 - Sievedata.com
+- Together.ai
+- Anyscale.com
+
+### Not serverless inference
+Needs dedicated server, but works with your own model  
+- Together.ai
+- Sievedata.com
+- Anyscale.com
+- Run.io
