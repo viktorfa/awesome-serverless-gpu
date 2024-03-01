@@ -40,3 +40,9 @@ Needs dedicated server, but works with your own model
 - Run.io
 - Huggingface.co
 - Lepton.ai
+
+### Dev on GPUs
+Flexible on-demand GPU providers
+- Brev.dev
+- [Colab](https://colab.research.google.com/)
+- Kaggle.com
