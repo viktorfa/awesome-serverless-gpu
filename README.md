@@ -38,3 +38,4 @@ Needs dedicated server, but works with your own model
 - Sievedata.com
 - Anyscale.com
 - Run.io
+- Huggingface.co
