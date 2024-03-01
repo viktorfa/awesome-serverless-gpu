@@ -29,6 +29,7 @@ True serverless with a limited set of models
 - Sievedata.com
 - Together.ai
 - Anyscale.com
+- Fireworks.ai
 
 ### Not serverless inference
 Needs dedicated server, but works with your own model  
