@@ -39,3 +39,4 @@ Needs dedicated server, but works with your own model
 - Anyscale.com
 - Run.io
 - Huggingface.co
+- Lepton.ai
