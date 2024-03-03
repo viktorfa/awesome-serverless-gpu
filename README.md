@@ -40,6 +40,7 @@ Needs dedicated server, but works with your own model
 - Run.io
 - Huggingface.co
 - Lepton.ai
+- Vast.ai
 
 ### Dev on GPUs
 Flexible on-demand GPU providers
