@@ -41,9 +41,11 @@ Needs dedicated server, but works with your own model
 - Huggingface.co
 - Lepton.ai
 - Vast.ai
+- Lambdalabs.com
 
 ### Dev on GPUs
 Flexible on-demand GPU providers
 - Brev.dev
 - [Colab](https://colab.research.google.com/)
 - Kaggle.com
+- Modal.com
