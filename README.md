@@ -43,9 +43,40 @@ Needs dedicated server, but works with your own model
 - Vast.ai
 - Lambdalabs.com
 
-### Dev on GPUs
+
+## Dev on GPUs
 Flexible on-demand GPU providers
 - Brev.dev
 - [Colab](https://colab.research.google.com/)
 - Kaggle.com
 - Modal.com
+- Beam.cloud
+
+
+## Predefined models over API
+
+### Speech to text
+- [OpenAI](https://platform.openai.com/docs/models/whisper)
+- [Amazon](https://aws.amazon.com/transcribe/), [Azure](https://azure.microsoft.com/en-us/products/ai-services/speech-to-text), [Google](https://cloud.google.com/speech-to-text)
+- Gladia.com
+- Deepgram.com
+- Speechmatics.com
+- Sieve ASR
+
+### Text to speech
+- [OpenAI](https://platform.openai.com/docs/guides/text-to-speech)
+- [Amazon](https://aws.amazon.com/polly/), [Azure](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-text-to-speech), [Google](https://cloud.google.com/text-to-speech)
+- [Speechify.com](https://speechify.com/)
+- [Elevenlabs.io](https://elevenlabs.io/api)
+- [Unrealspeech.com](https://unrealspeech.com/)
+- [Play.ht](https://play.ht/)
+- [Murf.ai](https://murf.ai/)
+
+### Image generation
+- [OpenAI Dall-e](https://platform.openai.com/docs/guides/images/introduction)
+- [Dreamstudio](https://dreamstudio.com/api/)
+- [Stablediffusionapi.com](https://stablediffusionapi.com/docs/)
+- [Modelslab.com](https://docs.modelslab.com/image-editing/overview)
+
+## Workflow platforms
+- [Leap](https://www.tryleap.ai/)
