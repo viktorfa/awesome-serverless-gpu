@@ -13,44 +13,45 @@ Common weaknessses of serverless GPU at the moment is very long cold starts, and
 
 ### Bring your own model
 True serverless inference
-- Inferless.com
-- Replicate.com
-- Runpod.io
-- Modelz.ai
-- Banana.dev (Shutting down March 31st 2024)
-- Beam.cloud
-- Mystic.ai
-- Modal.com
+- [Inferless.com](https://www.inferless.com/)
+- [Replicate.com](https://replicate.com/)
+- [Runpod.io](https://www.runpod.io/)
+- [Modelz.ai](https://modelz.ai/)
+- [Banana.dev](https://www.banana.dev/) (Shutting down March 31st 2024)
+- [Beam.cloud](https://www.beam.cloud/)
+- [Mystic.ai](https://www.mystic.ai/)
+- [Modal.com](https://modal.com/)
 
 ### Predefined models
 True serverless with a limited set of models
-- Cloudflare AI
-- OpenAI
-- Mistral
-- Sievedata.com
-- Together.ai
-- Anyscale.com
-- Fireworks.ai
+- [Cloudflare AI](https://ai.cloudflare.com/)
+- [OpenAI](https://platform.openai.com/)
+- [Mistral](https://docs.mistral.ai/)
+- [Sievedata.com](https://www.sievedata.com/)
+- [Together.ai](https://www.together.ai/)
+- [Anyscale.com](https://www.anyscale.com/)
+- [Fireworks.ai](https://fireworks.ai/)
 
 ### Not serverless inference
 Needs dedicated server, but works with your own model  
-- Together.ai
-- Sievedata.com
-- Anyscale.com
-- Run.io
-- Huggingface.co
-- Lepton.ai
-- Vast.ai
-- Lambdalabs.com
+- [Together.ai](https://www.together.ai/)
+- [Sievedata.com](https://www.sievedata.com/)
+- [Anyscale.com](https://www.anyscale.com/)
+- [Runpod.io](https://www.runpod.io/)
+- [Huggingface.co](https://huggingface.co/)
+- [Lepton.ai](https://www.lepton.ai/)
+- [Vast.ai](https://vast.ai/)
+- [Lambdalabs.com](https://lambdalabs.com/)
+- [Paperspace](https://www.paperspace.com/)
 
 
 ## Dev on GPUs
 Flexible on-demand GPU providers
-- Brev.dev
+- [Brev.dev](https://brev.dev/)
 - [Colab](https://colab.research.google.com/)
-- Kaggle.com
-- Modal.com
-- Beam.cloud
+- [Kaggle.com](https://www.kaggle.com/)
+- [Modal.com](https://modal.com/)
+- [Beam.cloud](https://www.beam.cloud/)
 
 
 ## Predefined models over API
@@ -58,10 +59,10 @@ Flexible on-demand GPU providers
 ### Speech to text
 - [OpenAI](https://platform.openai.com/docs/models/whisper)
 - [Amazon](https://aws.amazon.com/transcribe/), [Azure](https://azure.microsoft.com/en-us/products/ai-services/speech-to-text), [Google](https://cloud.google.com/speech-to-text)
-- Gladia.com
-- Deepgram.com
-- Speechmatics.com
-- Sieve ASR
+- [Gladia.io](https://www.gladia.io/)
+- [Deepgram.com](https://deepgram.com/)
+- [Speechmatics.com](https://www.speechmatics.com/)
+- [Sieve ASR](https://www.sievedata.com/functions/sieve/speech_transcriber)
 
 ### Text to speech
 - [OpenAI](https://platform.openai.com/docs/guides/text-to-speech)
