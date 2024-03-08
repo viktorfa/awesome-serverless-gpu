@@ -80,3 +80,9 @@ Flexible on-demand GPU providers
 
 ## Workflow platforms
 - [Leap](https://www.tryleap.ai/)
+
+## AI Agents for Websites
+- [Chatflow](https://chatflow.no/)
+- [OneAI](https://oneai.com/)
+- [SiteGPT](https://sitegpt.ai/)
+- [Chatbase](https://www.chatbase.co/)
