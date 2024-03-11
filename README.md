@@ -78,6 +78,7 @@ Flexible on-demand GPU providers
 - [Dreamstudio](https://dreamstudio.com/api/)
 - [Stablediffusionapi.com](https://stablediffusionapi.com/docs/)
 - [Modelslab.com](https://docs.modelslab.com/image-editing/overview)
+- [Bria.ai](https://bria.ai/)
 
 ## Workflow platforms
 - [Leap](https://www.tryleap.ai/)
