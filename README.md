@@ -72,6 +72,7 @@ Flexible on-demand GPU providers
 - [Unrealspeech.com](https://unrealspeech.com/)
 - [Play.ht](https://play.ht/)
 - [Murf.ai](https://murf.ai/)
+- [Deepgram.com](https://deepgram.com/)
 
 ### Image generation
 - [OpenAI Dall-e](https://platform.openai.com/docs/guides/images/introduction)
