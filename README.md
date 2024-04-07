@@ -75,6 +75,7 @@ Flexible on-demand GPU providers
 - [Play.ht](https://play.ht/)
 - [Murf.ai](https://murf.ai/)
 - [Deepgram.com](https://deepgram.com/)
+- [Resemble.ai](https://www.resemble.ai/)
 
 ### Image generation
 - [OpenAI Dall-e](https://platform.openai.com/docs/guides/images/introduction)
