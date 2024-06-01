@@ -33,6 +33,7 @@ True serverless with a limited set of models
 - [Together.ai](https://www.together.ai/)
 - [Anyscale.com](https://www.anyscale.com/)
 - [Fireworks.ai](https://fireworks.ai/)
+- [Fal.ai](https://fal.ai/)
 
 ### Not serverless inference
 Needs dedicated server, but works with your own model  
@@ -65,6 +66,7 @@ Flexible on-demand GPU providers
 - [Deepgram.com](https://deepgram.com/)
 - [Speechmatics.com](https://www.speechmatics.com/)
 - [Sieve ASR](https://www.sievedata.com/functions/sieve/speech_transcriber)
+- [Fal.ai Whisper](https://fal.ai/models/fal-ai/whisper)
 
 ### Text to speech
 - [OpenAI](https://platform.openai.com/docs/guides/text-to-speech)
@@ -83,6 +85,7 @@ Flexible on-demand GPU providers
 - [Stablediffusionapi.com](https://stablediffusionapi.com/docs/)
 - [Modelslab.com](https://docs.modelslab.com/image-editing/overview)
 - [Bria.ai](https://bria.ai/)
+- [Fal.ai](https://fal.ai/models)
 
 ## Workflow platforms
 - [Leap](https://www.tryleap.ai/)
