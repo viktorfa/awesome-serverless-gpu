@@ -67,6 +67,7 @@ Flexible on-demand GPU providers
 - [Speechmatics.com](https://www.speechmatics.com/)
 - [Sieve ASR](https://www.sievedata.com/functions/sieve/speech_transcriber)
 - [Fal.ai Whisper](https://fal.ai/models/fal-ai/whisper)
+- [Elevenlabs.io](https://elevenlabs.io/api)
 
 ### Text to speech
 - [OpenAI](https://platform.openai.com/docs/guides/text-to-speech)
