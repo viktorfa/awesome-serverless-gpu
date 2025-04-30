@@ -15,6 +15,7 @@ Common weaknessses of serverless GPU at the moment is very long cold starts, and
 True serverless inference
 - [Inferless.com](https://www.inferless.com/)
 - [Replicate.com](https://replicate.com/)
+- [Cerebrium.ai](https://www.cerebrium.ai/)
 - [Runpod.io](https://www.runpod.io/)
 - [Modelz.ai](https://modelz.ai/)
 - [Banana.dev](https://www.banana.dev/) (Shutting down March 31st 2024)
@@ -53,6 +54,7 @@ Flexible on-demand GPU providers
 - [Brev.dev](https://brev.dev/)
 - [Colab](https://colab.research.google.com/)
 - [Kaggle.com](https://www.kaggle.com/)
+- [Cerebrium.ai](https://www.cerebrium.ai/)
 - [Modal.com](https://modal.com/)
 - [Beam.cloud](https://www.beam.cloud/)
 
