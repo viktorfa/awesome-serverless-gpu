@@ -46,6 +46,7 @@ Needs dedicated server, but works with your own model
 - [Vast.ai](https://vast.ai/)
 - [Lambdalabs.com](https://lambdalabs.com/)
 - [Paperspace](https://www.paperspace.com/)
+- [Clore.ai](https://clore.ai/)
 
 
 ## Dev on GPUs
