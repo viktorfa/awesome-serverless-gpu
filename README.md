@@ -50,6 +50,7 @@ Needs dedicated server, but works with your own model
 
 ## Dev on GPUs
 Flexible on-demand GPU providers
+- [Velda.io](https://velda.io/)
 - [Brev.dev](https://brev.dev/)
 - [Colab](https://colab.research.google.com/)
 - [Kaggle.com](https://www.kaggle.com/)
