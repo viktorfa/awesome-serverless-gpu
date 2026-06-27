@@ -48,6 +48,11 @@ Needs dedicated server, but works with your own model
 - [Paperspace](https://www.paperspace.com/)
 
 
+## GPU Operator Payout Tools
+
+- [Spraay Direct](https://github.com/plagtech/spraay-direct-proxy) — Instant USDC payouts for GPU operators. Open-source proxy connecting vLLM, Ollama, or ComfyUI to the Spraay x402 gateway. USDC settles to your wallet on Base in ~2 seconds per inference job. Batch split payouts to multiple wallets. $0.03/job flat fee vs 15-25% on traditional platforms.
+
+
 ## Dev on GPUs
 Flexible on-demand GPU providers
 - [Brev.dev](https://brev.dev/)
