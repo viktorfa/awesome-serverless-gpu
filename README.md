@@ -34,6 +34,7 @@ True serverless with a limited set of models
 - [Anyscale.com](https://www.anyscale.com/)
 - [Fireworks.ai](https://fireworks.ai/)
 - [Fal.ai](https://fal.ai/)
+- [Runcrate.ai](https://www.runcrate.ai/?utm_source=awesome-serverless-gpu&utm_medium=directory&utm_campaign=gpu_pricing)
 
 ### Not serverless inference
 Needs dedicated server, but works with your own model  
@@ -55,6 +56,7 @@ Flexible on-demand GPU providers
 - [Kaggle.com](https://www.kaggle.com/)
 - [Modal.com](https://modal.com/)
 - [Beam.cloud](https://www.beam.cloud/)
+- [Runcrate.ai](https://www.runcrate.ai/?utm_source=awesome-serverless-gpu&utm_medium=directory&utm_campaign=gpu_pricing)
 
 
 ## Predefined models over API
