@@ -23,6 +23,7 @@ True serverless inference
 - [Modal.com](https://modal.com/)
 - [Baseten.co](https://www.baseten.co/)
 - [Covalent.xyz](https://www.covalent.xyz/)
+- [Apidly Cloud](https://apidly.com/serverless)
 
 ### Predefined models
 True serverless with a limited set of models
